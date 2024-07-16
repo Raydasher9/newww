@@ -1,0 +1,183 @@
+* {
+	
+margin: 0;
+padding: 0;
+	}
+
+	/* body {
+      background-color: #333;
+      color: white;
+      line-height: 2em;
+	}*/
+
+
+   body {
+	   
+	white-space: normal;
+	overflow: scroll;
+	font-size: 3em;
+	line-height: 2em;
+	margin-top: 50px;
+    padding-left: 50px;
+	text-align: center;
+    background-color: #333;
+    color: white;
+    height: 1200px;
+    width: 1200px;
+   
+    
+    }
+
+     h1 {
+
+             padding-bottom: 20px;
+         
+	      }
+
+    .size {
+        font-size: 1em;
+        }
+
+
+    .
+
+
+	#navbar {
+
+        margin: auto;
+      
+      
+      
+	}
+
+	li {
+       color: white;
+	}
+
+
+	ul {
+		list-style-type: none;
+               
+	}
+
+	a {
+        text-decoration: none;
+               
+	       color: white;
+	}
+
+	a:hover {
+         color: #008000;
+	}
+
+	/* @media (max-width: 480px)   {
+		body {
+               font-size: 4em;
+	       line-height: 1.5em;
+              margin-top: 50px;
+            text-align: center;
+	    background-color: red;
+	    width: 300px;
+	    height: 300px;
+	   
+      }
+      h1 {
+          padding-bottom: 20px;
+  }
+  
+        @media (max-height: 480px)  {
+		body {
+               font-size: 3em;
+	       line-height: 1.5em;
+              margin-top: 50px;
+            text-align: center;
+      }
+      h1 {
+          padding-bottom: 20px;
+      }
+      }*/
+
+   /*   @media (max-height: 480px) {
+                body {
+		font-size: 2em;
+		line-height: 1.5em;
+		margin-top: 50px;
+		text-align: center;
+		margin-left: 50px;
+		width: 400px;
+		height: 400px;
+	   
+	   overflow: scroll; 
+	   margin-right: 20px;
+		
+		}
+
+		h1 {
+                 padding-bottom: 20px;
+		}
+	
+
+   /* @media (max-height: 600px) {
+                body {
+		font-size: 2em;
+		line-height: 1.5em;
+		margin-top: 50px;
+		text-align: center;
+		margin-left: 100px;
+		width: 500px;
+		height: 500px;
+	   
+	   overflow: scroll; 
+	   margin-right: 20px;
+		
+		}
+
+		h1 {
+                 padding-bottom: 20px;
+		}
+      }*/
+
+    @media (max-width: 480px) {
+                body {
+		font-size: 3em;
+		line-height: 1.5em;
+		margin-top: 50px;
+		text-align: center;
+		margin-left: 80px;
+        	
+	   
+	   width: 400px;
+	   height: 400px;
+	   overflow: scroll;
+		}
+
+		h1 {
+                 padding-bottom: 20px;
+		}
+      }
+
+    
+
+    /*  @media (max-width: 480px) {
+              body {
+		      margin-top: 50px;
+		   
+                  
+                font-size: 3em;
+		line-height: 1.5em;
+		margin-top: 50px;
+		text-align: center;
+        white-space: normal;
+	      }
+	      h1 {
+             padding-bottom: 20px;
+
+	      }
+
+
+      }
+        */
+	
+             
+	       
+	

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+pandoc -s README.md --template template.html -o index.html &>/dev/null
+pandoc -s projects/README.md --template template.html -o projects/index.html &>/dev/null
+pandoc -s projects/web/README.md --template template.html -o projects/index.html &>/dev/null
+pandoc -s projects/js/README.md --template template.html -o projects/js/index.html &>/dev/null
+pandoc -s projects/go/README.md --template template.html -o projects/go/index.html &>/dev/null
+pandoc -s projects/linux/README.md --template template.html -o projects/linux/index.html &>/dev/null
+pandoc -s projects/c/README.md --template template.html -o projects/c/index.html &>/dev/null 
+pandoc -s projects/languages/README.md --template template.html -o projects/languages/index.html &>/dev/null
+pandoc -s questions/README.md --template template.html -o questions/index.html &>/dev/null 
+
+
+
+
+
